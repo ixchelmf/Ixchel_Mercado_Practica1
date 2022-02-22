@@ -1,0 +1,2 @@
+C:\Users\Mercado\Documents\MCUXpressoIDE_11.4.0_6237\workspace\Mercado_Fong_Practica1_Com\utilities/fsl_debug_console.h:152:24:DbgConsole_Init	24	static
+../board/board.c:17:6:BOARD_InitDebugConsole	16	static

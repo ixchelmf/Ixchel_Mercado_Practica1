@@ -1,0 +1,2 @@
+../source/module_crcaes_ixchel.c:17:9:validation_module	336	dynamic
+../source/module_crcaes_ixchel.c:104:13:InitCrc32	32	static
